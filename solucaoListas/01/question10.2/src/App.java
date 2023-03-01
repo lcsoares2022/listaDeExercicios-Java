@@ -152,6 +152,9 @@ public class App {
 
 // ! A tabela Hash é implementada como um array de listas ligadas, que é usada para armazenar os pares chave-valor. A chave é usada para calcular o índice do array em que o valor correspondente será armazenado, o que permite uma recuperação rápida dos valores usando a chave. A implementação da tabela hash em Java é otimizada para minimizar o número de colisões entre as chaves, o que aumenta a eficiência da busca de elementos na tabela.
 
+
+
+
 // ? O que é estrutura de dados Map?
 
 // ! É uma coleção de pares chave-valor que permite armazenar e acessar elemetnos por meio de uma chave, em vez de uma posição numérica como em um array.
